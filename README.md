@@ -4,7 +4,9 @@ Welcome to the Instill AI Community! We're thrilled to have you here. This repos
 
 ## Table of Contents<!-- omit in toc -->
 
-- [Instill Core Projects](#instill-core-projects)
+- [Instill Core](#instill-core)
+- [Instill Cloud](#instill-cloud)
+- [CLI \& SDKs](#cli--sdks)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
   - [Issue Guidelines](#issue-guidelines)
@@ -14,7 +16,7 @@ Welcome to the Instill AI Community! We're thrilled to have you here. This repos
   - [Efficient Triage Process](#efficient-triage-process)
   - [Engage in Dynamic Discussions and Seek Support](#engage-in-dynamic-discussions-and-seek-support)
 
-## Instill Core Projects
+## Instill Core
 
 **Welcome to Instill Core** – where the world of AI-first applications comes alive. Instill Core lays the foundation for AI-powered pipelines designed to handle unstructured data. Within this ecosystem, you'll find source-available projects that enable you to construct robust AI pipelines. Allow these tools to elevate your data processing capabilities, transforming raw data into actionable insights. To dive into the potential of Instill Core, head over to our [documentation](https://www.instill.tech/docs).
 
@@ -46,11 +48,23 @@ Welcome to the Instill AI Community! We're thrilled to have you here. This repos
 
 We invite you to engage, contribute, and collaborate within the exciting Instill Core Projects. Your journey starts here! 🙌
 
+## Instill Cloud
+
+Not quite into self-hosting? We've got you covered with our **☁️ [Instill Cloud](https://console.instill.tech/?utm_source=github&utm_medium=readme&utm_campaign=community)**! It's a fully-managed public cloud service that grants you access to all the fantastic features of Instill Core, without the hassle of managing infrastructure. We're currently in the exciting Open Alpha testing phase, and all features are FREE during this period! 🎉
+
+## CLI & SDKs
+
+To dive into Instill Core and Instill Cloud, you have a few options:
+
+- [CLI](https://github.com/instill-ai/cli)
+- [Python SDK](https://github.com/instill-ai/python-sdk)
+- And stay tuned, because more SDKs are on the way!
+
 ## Getting Started
 
 Here's how you can join the conversation and make an impact:
 
-1. Take a look at our [Instil Core Project](https://github.com/orgs/instill-ai/projects/5) to gain insights into our ongoing roadmap.
+1. Take a look at our [Instill Core Project](https://github.com/orgs/instill-ai/projects/5) to gain insights into our ongoing roadmap.
 2. Dive into the ongoing [issues](../../issues) to stay informed about ongoing conversations.
 3. To report a bug or suggest a new feature or improvement, feel free to [open an issue](../../issues/new/choose).
 
