@@ -50,7 +50,7 @@ We invite you to engage, contribute, and collaborate within the exciting Instill
 
 ## Instill Cloud
 
-Not quite into self-hosting? We've got you covered with our **☁️ [Instill Cloud](https://console.instill.tech/?utm_source=github&utm_medium=readme&utm_campaign=community)**! It's a fully-managed public cloud service that grants you access to all the fantastic features of Instill Core, without the hassle of managing infrastructure. We're currently in the exciting Open Alpha testing phase, and all features are FREE during this period! 🎉
+Not quite into self-hosting? We've got you covered with **☁️ [Instill Cloud](https://console.instill.tech/?utm_source=github&utm_medium=readme&utm_campaign=community)**! It's a fully-managed public cloud service that grants you access to all the fantastic features of Instill Core, without the hassle of managing infrastructure. We're currently in the exciting Open Alpha testing phase, and all features are FREE during this period! 🎉
 
 ## CLI & SDKs
 
@@ -78,7 +78,7 @@ We foster a friendly and inclusive environment for issue reporting. Before creat
 
 ### Code Contributions
 
-While this repository primarily focuses on addressing issues, we also highly value contributions to our source-available projects in the form of code. To embark on this journey of code collaboration, please refer to our comprehensive [Contributing Guidelines](https://github.com/instill-ai/.github/blob/main/.github/CONTRIBUTING.md). Your code-driven innovations are more than welcome!
+While this repository primarily focuses on addressing issues, we also highly value contributions to our source-available projects in the form of code. To embark on this journey of code collaboration, please refer to the **Contributing Guidelines** in each codebase repository. Your code-driven innovations are more than welcome!
 
 ## Community
 
