@@ -5,7 +5,7 @@ on:
       - labeled
 jobs:
   add-comment-to-help-wanted:
-    if: github.event.label.name == '🙋‍♂️ help-wanted'
+    if: github.event.label.name == 'help wanted'
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -22,7 +22,7 @@ jobs:
 
             **:sparkles: Thank you for your contribution! :sparkles:**
   add-comment-to-good-first-issue:
-    if: github.event.label.name == '🙌 good-first-issue'
+    if: github.event.label.name == 'good first issue'
     runs-on: ubuntu-latest
     permissions:
       issues: write

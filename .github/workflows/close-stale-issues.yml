@@ -14,7 +14,7 @@ jobs:
       - uses: actions/stale@v8
         with:
           stale-issue-label: "stale"
-          exempt-issue-labels: "linear,📍 roadmap,🙌 good-first-issue,🙋‍♂️ help-wanted"
+          any-of-issue-labels: "need triage,question,cant reproduce,duplicate,need discussion,wontfix"
           stale-issue-message: "This issue is stale because it has been open 30 days with no activity. Remove stale label or comment or this will be closed in 7 days."
           stale-pr-label: "stale"
           stale-pr-message: "This PR is stale because it has been open 30 days with no activity. Remove stale label or comment or this will be closed in 7 days."
