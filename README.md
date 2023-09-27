@@ -78,7 +78,7 @@ We foster a friendly and inclusive environment for issue reporting. Before creat
 
 ### Code Contributions
 
-While this repository primarily focuses on addressing issues, we also highly value contributions to our source-available projects in the form of code. To embark on this journey of code collaboration, please refer to the **Contributing Guidelines** in each codebase repository. Your code-driven innovations are more than welcome!
+While this repository primarily focuses on addressing issues, we also highly value contributions to our source-available projects in the form of code. To embark on this journey of code collaboration, please refer to the **Contributing Guideline** in each codebase repository. Your code-driven innovations are more than welcome!
 
 ## Community
 
