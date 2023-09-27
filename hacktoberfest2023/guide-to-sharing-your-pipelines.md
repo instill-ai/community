@@ -4,9 +4,9 @@ Welcome to our tutorial on creating a pipeline using [Instill Cloud](https://con
 
 ## Step 1: Visit [Instill AI](https://www.instill.tech/)
 
-Click on the 'TRY INSTILL CLOUD FREE' button and create your account.
+Click on the `TRY INSTILL CLOUD FREE` button and create your account.
 
-![Go to product website](./assets/visit-product-website-1.png)
+![Go to product website](./assets/visit-product-website.png)
 
 ![Create Instill Cloud account](./assets/create-account.png)
 
@@ -40,7 +40,7 @@ Nodes start unconnected.
 
 ![Setup the pipeline](./assets/config-pipeline-1.png)
 
-Connected after adding a referencing field using `{}`.
+Connected after adding a referencing field using curly braces `{}`.
 
 ![Setup the pipeline](./assets/config-pipeline-2.png)
 
