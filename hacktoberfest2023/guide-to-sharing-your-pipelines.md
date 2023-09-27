@@ -40,7 +40,7 @@ Nodes start unconnected.
 
 ![Setup the pipeline](./assets/config-pipeline-1.png)
 
-Connected after adding a referencing field using `{}`.
+Connected after adding a referencing field using curly braces `{}`.
 
 ![Setup the pipeline](./assets/config-pipeline-2.png)
 
