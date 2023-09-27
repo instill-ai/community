@@ -1,4 +1,4 @@
-# Hacktoberfest 2023 Guide to Sharing Your Pipeline
+# Hacktoberfest 2023 Guide to Sharing Your Pipelines
 
 Welcome to our tutorial on creating a pipeline using [Instill Cloud](https://console.instill.tech/) and earning credits to redeem some cool swag for the Hacktoberfest event. Let's get started with these simple steps!
 
@@ -54,9 +54,9 @@ Nodes are successfully connected.
 
 ## Step 4: Test the Pipeline
 
-Press the `Save` and `Test` buttons to save and test your pipeline.
+Press the `Test` button to save and test your pipeline.
 
-![Save to test the pipeline](./assets/test-pipeline-1.png)
+![Save and test the pipeline](./assets/test-pipeline-1.png)
 
 Enter your prompt and click `Run`.
 
