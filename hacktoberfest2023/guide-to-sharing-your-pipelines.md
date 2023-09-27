@@ -6,7 +6,7 @@ Welcome to our tutorial on creating a pipeline using [Instill Cloud](https://con
 
 Click on the 'TRY INSTILL CLOUD FREE' button and create your account.
 
-![Go to product website](./assets/visit-product-website.png)
+![Go to product website](./assets/visit-product-website-1.png)
 
 ![Create Instill Cloud account](./assets/create-account.png)
 
@@ -44,11 +44,9 @@ Connected after adding a referencing field using `{}`.
 
 ![Setup the pipeline](./assets/config-pipeline-2.png)
 
-![Setup the pipeline](./assets/config-pipeline-3.png)
-
 Nodes are successfully connected.
 
-![Setup the pipeline](./assets/config-pipeline-4.png)
+![Setup the pipeline](./assets/config-pipeline-3.png)
 
 ![Setup the pipeline](./assets/config-pipeline.gif)
 
