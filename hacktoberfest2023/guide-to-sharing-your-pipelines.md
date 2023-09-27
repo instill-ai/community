@@ -6,7 +6,7 @@ Welcome to our tutorial on creating a pipeline using [Instill Cloud](https://con
 
 Click on the 'TRY INSTILL CLOUD FREE' button and create your account.
 
-![Go to product website](./assets/visit-product-website-1.png)
+![Go to product website](./assets/visit-product-website.png)
 
 ![Create Instill Cloud account](./assets/create-account.png)
 
