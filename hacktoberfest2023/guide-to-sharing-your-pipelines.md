@@ -81,9 +81,14 @@ To claim your credits, make sure to submit your work via [Google form](https://f
 Congratulations! You've successfully created a pipeline using Instill Cloud and earned credits to redeem some swag for the Instill AI x Hacktoberfest 2023 event.
 
 For any questions or more information, please refer to these useful resources:
-- [Instill AI x Hacktoberfest Orientation](https://youtu.be/xmWHOYjfmkg): : A brief introduction to Instill AI's product, what to expect, and how to participate in Hacktoberfest.
 - [Documentation](https://www.instill.tech/docs): Get acquainted with our product and explore its capabilities.
 - [Community Repository](https://github.com/instill-ai/community/issues?q=is:issue+is:open+label:hacktoberfest,+label:%22good+first+issue%22,%22help+wanted%22+): Discover existing issues and explore our ongoing projects.
 - [Hacktoberfest Submission Form](https://forms.gle/2r91a7ChMLVnWLm37): Once you've completed your work, submit the form to claim your credits.
 - [Discord Community](https://discord.gg/sevxWsqpGh): If you have any questions or need further information regarding Hacktoberfest or Instill AI, please visit our Discord.
 - [Hacktoberfest Official Website](https://hacktoberfest.com/): To receive a Digital Reward Kit from Hacktoberfest or have a tree planted in your name through Tree Nation, register for a Hacktoberfest account between September 26th and October 31st and follow the rules on the Hacktoberfest website.
+
+## How to participate
+
+<Youtube id="xmWHOYjfmkg" />
+
+Check out our [Hacktoberfest orientation video](https://youtu.be/xmWHOYjfmkg?feature=shared) to get up to speed on how to contribute.
