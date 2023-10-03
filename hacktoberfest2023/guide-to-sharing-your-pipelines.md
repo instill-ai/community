@@ -52,7 +52,7 @@ Nodes are successfully connected.
 
 ## Step 4: Test the Pipeline
 
-Press the `Test` button to save and test your pipeline.
+Press the `Save` and `Test` button to save and test your pipeline.
 
 ![Save and test the pipeline](./assets/test-pipeline-1.png)
 
@@ -66,13 +66,25 @@ Get your pipeline triggering result.
 
 ![Test the pipeline](./assets/test-pipeline.gif)
 
-## Step 5: Share on Social Media
+## Step 5: Share the Pipeline
 
-To win Instill Stickers by participating in Hacktoberfest, please share your pipeline on any social media platform.
+Press `Share` to share your pipeline.
+
+![Share the pipeline](./assets/share-pipeline-1.png)
+
+You can choose to `Make the Pipeline Public` or `Share by Link` then press `Copy Link`
+
+![Share the pipeline](./assets/share-pipeline-2.png)
+
+![Share the pipeline](./assets/share-pipeline.gif)
+
+## Step 6: Share on Social Media
+
+To win Instill Stickers by participating in Hacktoberfest, please paste the copied link and share your pipeline on any social media.
 
 ![Social media platforms](./assets/share-on-social-media.webp)
 
-## Step 6: Submit on Google Form
+## Step 7: Submit on Google Form
 
 To claim your credits, make sure to submit your work via [Google form](https://forms.gle/2r91a7ChMLVnWLm37). Don't forget to submit multiple times for each task you complete.
 
@@ -80,10 +92,14 @@ To claim your credits, make sure to submit your work via [Google form](https://f
 
 Congratulations! You've successfully created a pipeline using Instill Cloud and earned credits to redeem some swag for the Instill AI x Hacktoberfest 2023 event.
 
-For any questions or more information, please refer to these useful resources:
 
+For any questions or more information, please refer to these useful resources:
 - [Documentation](https://www.instill.tech/docs): Get acquainted with our product and explore its capabilities.
 - [Community Repository](https://github.com/instill-ai/community/issues?q=is:issue+is:open+label:hacktoberfest,+label:%22good+first+issue%22,%22help+wanted%22+): Discover existing issues and explore our ongoing projects.
 - [Hacktoberfest Submission Form](https://forms.gle/2r91a7ChMLVnWLm37): Once you've completed your work, submit the form to claim your credits.
 - [Discord Community](https://discord.gg/sevxWsqpGh): If you have any questions or need further information regarding Hacktoberfest or Instill AI, please visit our Discord.
 - [Hacktoberfest Official Website](https://hacktoberfest.com/): To receive a Digital Reward Kit from Hacktoberfest or have a tree planted in your name through Tree Nation, register for a Hacktoberfest account between September 26th and October 31st and follow the rules on the Hacktoberfest website.
+
+## How to participate
+
+Check out our [Hacktoberfest orientation video](https://youtu.be/xmWHOYjfmkg?feature=shared) to get up to speed on how to contribute.
