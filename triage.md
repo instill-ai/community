@@ -39,8 +39,8 @@ These labels enrich issues/PRs with metadata to aid the triage process and activ
 
 | <div style="width:150px">Label</div> | Indicates that |
 | --- | --- |
-| `<project>` | Instill Project related to this issue/PR. E.g., 'instill vdp', 'instill model' and 'instill base' |
-| `<project: component>` | Major service associated with this issue/PR. E.g., 'vdp: pipeline-backend', 'vdp: connector-backend', 'model: model-backend' and 'base: console' |
+| `<project>` | Instill Project related to this issue/PR. E.g., 'instill vdp', 'instill model', 'instill core', 'instill console', 'instill cli' and 'instill sdk' |
+| `<project: component>` | Major service associated with this issue/PR. E.g., 'vdp: pipeline-backend', 'vdp: connector-backend' and 'model: model-backend' |
 | `feature` | New feature request |
 | `improvement` | Enhancement of existing features |
 | `bug` | Issue indicating malfunction |
