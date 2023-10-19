@@ -4,9 +4,9 @@ Welcome to the Instill AI Community! We're thrilled to have you here. This repos
 
 ## Table of Contents<!-- omit in toc -->
 
-- [Instill Core](#instill-core)
+- [Instill Core: Open-source Unstructured Data Infrastructure Stack](#instill-core-open-source-unstructured-data-infrastructure-stack)
 - [Instill Cloud](#instill-cloud)
-- [CLI \& SDKs](#cli--sdks)
+- [No-Code/Low-Code Access](#no-codelow-code-access)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
   - [Issue Guidelines](#issue-guidelines)
@@ -16,12 +16,26 @@ Welcome to the Instill AI Community! We're thrilled to have you here. This repos
   - [Efficient Triage Process](#efficient-triage-process)
   - [Engage in Dynamic Discussions and Seek Support](#engage-in-dynamic-discussions-and-seek-support)
 
-## Instill Core
+## Instill Core: Open-source Unstructured Data Infrastructure Stack
 
-**Welcome to Instill Core** – where the world of AI-first applications comes alive. Instill Core lays the foundation for AI-powered pipelines designed to handle unstructured data. Within this ecosystem, you'll find source-available projects that enable you to construct robust AI pipelines. Allow these tools to elevate your data processing capabilities, transforming raw data into actionable insights. To dive into the potential of Instill Core, head over to our [documentation](https://www.instill.tech/docs).
+Explore our open-source unstructured data infrastructure stack, comprising a collection of source-available projects designed to streamline every aspect of building versatile AI features with unstructured data. Dive into the potential in our [documentation](https://www.instill.tech/docs).
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/instill-ai/.github/main/img/instill-projects.svg" width=80%>
+  <br>
+    <em>Open Source Unstructured Data Infrastructure Stack</em>
+</div>
+
+<br>
 
 <details>
-  <summary><b>💧 <a href="https://github.com/instill-ai/vdp" target="_blank">Instill VDP</a>: Your Unstructured Data Solution</b></summary><br>
+  <summary><b>🔮 <a href="https://github.com/instill-ai/core" target="_blank">Instill Core</a>: The foundation for self-hosting Instill VDP and Instill Model</b></summary><br>
+
+  **Instill Core**, or simply **Core**, is the foundation of our open-source unstructured data stack. It houses essential services like user management servers, databases, and third-party observability tools. Instill Core also provides deployment codes to facilitate the seamless launch of both Instill VDP and Instill Model.
+</details>
+
+<details>
+  <summary><b>💧 <a href="https://github.com/instill-ai/vdp" target="_blank">Instill VDP</a>: AI pipeline builder for unstructured data</b></summary><br>
   
   **Instill VDP**, or **VDP (Versatile Data Pipeline)**, represents a comprehensive unstructured data infrastructure. Its purpose is to simplify the journey of processing unstructured data from start to finish:
 
@@ -33,32 +47,45 @@ Welcome to the Instill AI Community! We're thrilled to have you here. This repos
 </details>
 
 <details>
-  <summary><b>⚗️ <a href="https://github.com/instill-ai/model" target="_blank">Instill Model</a>: Pioneering ModelOps</b></summary><br>
+  <summary><b>⚗️ <a href="https://github.com/instill-ai/model" target="_blank">Instill Model</a>: Scalable AI model serving and training</b></summary><br>
 
-  **Instill Model**, or simply **Model**, emerges as an advanced ModelOps platform. Here, the focus is on empowering you to seamlessly import and serve Machine Learning (ML) models for inference purposes. Like other Instill Core products, Model's source code is available for your exploration.
-
+  **Instill Model**, or simply **Model**, emerges as an advanced ModelOps platform. Here, the focus is on empowering you to seamlessly import, train and serve Machine Learning (ML) models for inference purposes. Like other projects, Instill Model's source code is available for your exploration.
 </details>
-
-<details>
-  <summary><b>🗿 <a href="https://github.com/instill-ai/base" target="_blank">Instill Base</a>: Essential Services for VDP and Model</b></summary><br>
-
-  **Instill Base**, or **Base**, serves as the bedrock upon which Instill projects thrive. Essential services such as user management servers, databases, and third-party observability tools find their home here. Base plays a pivotal role in facilitating the seamless launch of both VDP and Model. Additionally, it introduces [Console](https://github.com/instill-ai/console), a user-friendly web-based UI application that enhances accessibility and usability across VDP and Model.
-
-</details>
-
-We invite you to engage, contribute, and collaborate within the exciting Instill Core Projects. Your journey starts here! 🙌
 
 ## Instill Cloud
 
-Not quite into self-hosting? We've got you covered with **☁️ [Instill Cloud](https://console.instill.tech/?utm_source=github&utm_medium=readme&utm_campaign=community)**! It's a fully-managed public cloud service that grants you access to all the fantastic features of Instill Core, without the hassle of managing infrastructure. We're currently in the exciting Open Alpha testing phase, and all features are FREE during this period! 🎉
+Not quite into self-hosting? We've got you covered with **☁️ [Instill Cloud](https://console.instill.tech/?utm_source=github&utm_medium=readme&utm_campaign=community)**! It's a fully-managed public cloud service that grants you access to all the fantastic features of the open-source unstructured data infrastructure stack, without the hassle of managing infrastructure. We're currently in the exciting Open Alpha testing phase, and all features are FREE during this period! 🎉
 
-## CLI & SDKs
+## No-Code/Low-Code Access
 
 To dive into Instill Core and Instill Cloud, you have a few options:
 
-- [CLI](https://github.com/instill-ai/cli)
-- [Python SDK](https://github.com/instill-ai/python-sdk)
-- And stay tuned, because more SDKs are on the way!
+> **Note**
+> To access Instill Cloud, [register](https://console.instill.tech/?utm_source=github&utm_medium=readme&utm_campaign=community) an account with your email address.
+
+<details>
+  <summary><b>⛅ <a href="https://github.com/instill-ai/console" target="_blank">Instill Console</a>: Dive in Instill Core/Cloud with no coding</b></summary><br>
+
+  **Instill Console**, or **Console** is a user-friendly web-based UI application that improves accessibility and usability across both Instill Core and Instill Cloud. It allows you to dive into the creation of AI apps or the processing of unstructured data without the need for coding skills.
+
+  To access the Instill Core console, please launch Instill Core and navigate to http://localhost:3000. For the Instill Cloud console, simply go to https://console.instill.tech.
+</details>
+
+<details>
+  <summary><b>📺 <a href="https://github.com/instill-ai/cli" target="_blank">Instill CLI</a>:  Bring Instill Core/Cloud to your command line</b></summary><br>
+
+  **Instill CLI** enables you to access Instill Core and Instill Cloud from your terminal. It can be installed by `brew install instill-ai/tap/inst` for Linux and macOS. To set up and get started with Instill CLI, head over to [here](https://github.com/instill-ai/cli). 
+</details>
+
+<details>
+  <summary><b>📦 Instill SDKs</a>: Integrate Instill Core/Cloud with your language of choice </b></summary><br>
+
+  **Instill SDKs** make it easy for developers to integrate and interact with Instill Core and Cloud.
+  
+  - [Python SDK](https://github.com/instill-ai/python-sdk)
+  - [TypeScript SDK](https://github.com/instill-ai/typescript-sdk)
+  - Stay tuned, as more SDKs are on the way!
+</details>
 
 ## Getting Started
 
