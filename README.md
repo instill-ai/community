@@ -96,8 +96,11 @@ Here's how you can join the conversation and make an impact:
 3. To report a bug or suggest a new feature or improvement, feel free to [open an issue](../../issues/new/choose).
 
 ## Contributing
+Every contribution matters in our quest to make AI accessible to everyone. Regardless of whether you're coding, debugging, or offering feedback, we deeply appreciate your input. We would like to invite you to be a part of our lively community and help us make a difference!
 
-We welcome contributions from the community! Whether you're a developer, designer, writer, or user, there are multiple ways to contribute:
+![contributors](./assets/contributors.png)
+
+We invite all community members to contribute in their unique ways. Whether you're a developer, designer, writer, or user, there are multiple ways to contribute:
 
 ### Issue Guidelines
 
