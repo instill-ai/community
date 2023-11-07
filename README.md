@@ -96,11 +96,9 @@ Here's how you can join the conversation and make an impact:
 3. To report a bug or suggest a new feature or improvement, feel free to [open an issue](../../issues/new/choose).
 
 ## Contributing
-Every contribution matters in our quest to make AI accessible to everyone. Regardless of whether you're coding, debugging, or offering feedback, we deeply appreciate your input. We would like to invite you to be a part of our lively community and help us make a difference!
+Every contribution matters in our quest to make AI accessible to everyone. Regardless of whether you're coding, debugging, or offering feedback, we deeply appreciate your input. 
 
-![contributors](./assets/contributors.png)
-
-We invite all community members to contribute in their unique ways. Whether you're a developer, designer, writer, or user, there are multiple ways to contribute:
+We would like to invite you to be a part of our lively community and help us make a difference! Whether you're a developer, designer, writer, or user, there are multiple ways to contribute:
 
 ### Issue Guidelines
 
@@ -130,6 +128,20 @@ Head over to our [Discussions](../../discussions) section for engaging conversat
 - [Show and Tell](https://github.com/orgs/instill-ai/discussions/categories/show-and-tell): Showcase projects you've created using our tools.
 
 Alternatively, you can also join our vibrant [Discord](https://discord.gg/sevxWsqpGh) community and direct your queries to the #ask-for-help channel. We're dedicated to supporting you every step of the way!
+
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+[![All Contributors](https://img.shields.io/github/all-contributors/Instill AI/community?color=ee8449&style=flat-square)](#contributors)
 
 ---
 
