@@ -141,8 +141,6 @@ Alternatively, you can also join our vibrant [Discord](https://discord.gg/sevxWs
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-[![All Contributors](https://img.shields.io/github/all-contributors/Instill AI/community?color=ee8449&style=flat-square)](#contributors)
-
 ---
 
 Your voice matters, and we can't wait to hear your thoughts and contributions. Let's build an exceptional community together!
