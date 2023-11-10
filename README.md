@@ -1,4 +1,7 @@
 # Welcome to the Instill AI Community<!-- omit in toc -->
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome to the Instill AI Community! We're thrilled to have you here. This repository serves as a central hub for discussing our open-source projects, raising issues, and sharing ideas. We believe in the power of community collaboration and value your contributions.
 
@@ -131,3 +134,25 @@ Alternatively, you can also join our vibrant [Discord](https://discord.gg/sevxWs
 ---
 
 Your voice matters, and we can't wait to hear your thoughts and contributions. Let's build an exceptional community together!
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/VibhorGits"><img src="https://avatars.githubusercontent.com/u/110928899?v=4?s=100" width="100px;" alt="Vibhor Bhatt"/><br /><sub><b>Vibhor Bhatt</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=VibhorGits" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
