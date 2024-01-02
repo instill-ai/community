@@ -146,6 +146,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/VibhorGits"><img src="https://avatars.githubusercontent.com/u/110928899?v=4?s=100" width="100px;" alt="Vibhor Bhatt"/><br /><sub><b>Vibhor Bhatt</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=VibhorGits" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/miguel-ortiz-marin"><img src="https://avatars.githubusercontent.com/u/89418691?v=4?s=100" width="100px;" alt="Miguel Ortiz"/><br /><sub><b>Miguel Ortiz</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=miguel-ortiz-marin" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
