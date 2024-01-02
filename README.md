@@ -146,7 +146,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/VibhorGits"><img src="https://avatars.githubusercontent.com/u/110928899?v=4?s=100" width="100px;" alt="Vibhor Bhatt"/><br /><sub><b>Vibhor Bhatt</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=VibhorGits" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://sajdakabir.me"><img src="https://avatars.githubusercontent.com/u/86569763?v=4?s=100" width="100px;" alt="Sajda Kabir"/><br /><sub><b>Sajda Kabir</b></sub></a><br /><a href="https://github.com/instill-ai/community/issues?q=author%3Asajdakabir" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://sajdakabir.me"><img src="https://avatars.githubusercontent.com/u/86569763?v=4?s=100" width="100px;" alt="Sajda Kabir"/><br /><sub><b>Sajda Kabir</b></sub></a><br /><a href="https://github.com/instill-ai/community/issues?q=author%3Asajdakabir" title="Bug reports">🐛</a> <a href="https://github.com/instill-ai/community/commits?author=sajdakabir" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
