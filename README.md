@@ -1,13 +1,12 @@
 # Welcome to the Instill AI Community<!-- omit in toc -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+[![Discord](https://img.shields.io/discord/928991293856681984?color=blue&label=Discord&logo=discord&logoColor=fff)](https://discord.gg/sevxWsqpGh)
 
 Welcome to the Instill AI Community! We're thrilled to have you here. This repository serves as a central hub for discussing our open-source projects, raising issues, and sharing ideas. We believe in the power of community collaboration and value your contributions.
 
 ## Table of Contents<!-- omit in toc -->
 
-- [Instill Core: Open-source Unstructured Data Infrastructure Stack](#instill-core-open-source-unstructured-data-infrastructure-stack)
+- [Instill Core: Open-source Unstructured Data ETL Stack](#instill-core-open-source-unstructured-data-etl-stack)
 - [Instill Cloud](#instill-cloud)
 - [No-Code/Low-Code Access](#no-codelow-code-access)
 - [Getting Started](#getting-started)
@@ -18,15 +17,16 @@ Welcome to the Instill AI Community! We're thrilled to have you here. This repos
   - [Code of Conduct](#code-of-conduct)
   - [Efficient Triage Process](#efficient-triage-process)
   - [Engage in Dynamic Discussions and Seek Support](#engage-in-dynamic-discussions-and-seek-support)
+- [Contributors ✨](#contributors-)
 
-## Instill Core: Open-source Unstructured Data Infrastructure Stack
+## Instill Core: Open-source Unstructured Data ETL Stack
 
-Explore our open-source unstructured data infrastructure stack, comprising a collection of source-available projects designed to streamline every aspect of building versatile AI features with unstructured data. Dive into the potential in our [documentation](https://www.instill.tech/docs).
+Explore the open-source unstructured data ETL stack, comprising a collection of source-available projects designed to streamline every aspect of building versatile AI features with unstructured data. Dive into the potential in our [documentation](https://www.instill.tech/docs).
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/instill-ai/.github/main/img/instill-projects.svg" width=80%>
   <br>
-    <em>Open Source Unstructured Data Infrastructure Stack</em>
+    <em>Open Source Unstructured Data ETL Stack</em>
 </div>
 
 <br>
@@ -40,7 +40,7 @@ Explore our open-source unstructured data infrastructure stack, comprising a col
 <details>
   <summary><b>💧 <a href="https://github.com/instill-ai/vdp" target="_blank">Instill VDP</a>: AI pipeline builder for unstructured data</b></summary><br>
   
-  **Instill VDP**, or **VDP (Versatile Data Pipeline)**, represents a comprehensive unstructured data infrastructure. Its purpose is to simplify the journey of processing unstructured data from start to finish:
+  **Instill VDP**, or **VDP (Versatile Data Pipeline)**, represents a comprehensive unstructured data ETL. Its purpose is to simplify the journey of processing unstructured data from start to finish:
 
   - **Extract:** Gather unstructured data from diverse sources, including AI applications, cloud/on-prem storage, and IoT devices.
   - **Transform:** Utilize AI models to convert raw data into meaningful insights and actionable formats.
@@ -57,7 +57,7 @@ Explore our open-source unstructured data infrastructure stack, comprising a col
 
 ## Instill Cloud
 
-Not quite into self-hosting? We've got you covered with **☁️ [Instill Cloud](https://console.instill.tech/?utm_source=github&utm_medium=readme&utm_campaign=community)**! It's a fully-managed public cloud service that grants you access to all the fantastic features of the open-source unstructured data infrastructure stack, without the hassle of managing infrastructure. We're currently in the exciting Open Alpha testing phase, and all features are FREE during this period! 🎉
+Not quite into self-hosting? We've got you covered with **☁️ [Instill Cloud](https://console.instill.tech/?utm_source=github&utm_medium=readme&utm_campaign=community)**. It's a fully managed public cloud service, providing you with access to all the fantastic features of unstructured data ETL without the burden of infrastructure management.
 
 ## No-Code/Low-Code Access
 
