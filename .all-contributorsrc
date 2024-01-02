@@ -32,7 +32,57 @@
     "avatar_url": "https://avatars.githubusercontent.com/u/86569763?v=4",
     "profile": "https://github.com/sajdakabir",
     "contributions": [
+      "bug"
+    ]
+    }
+  ,
+    {
+    "login": "chenhunghan",
+    "name": "Henry Chen",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1474479?v=4",
+    "profile": "https://github.com/chenhunghan",
+    "contributions": [
       "code"
+    ]
+    }
+  ,
+    {
+    "login": "HariBhandari07",
+    "name": "Hari Bhandari",
+    "avatar_url": "https://avatars.githubusercontent.com/u/34328907?v=4",
+    "profile": "https://github.com/HariBhandari07",
+    "contributions": [
+      "code"
+    ]
+    }
+  ,
+    {
+    "login": "geeksambhu",
+    "name": "Shiva Gaire",
+    "avatar_url": "https://avatars.githubusercontent.com/u/9899283?v=4",
+    "profile": "https://github.com/geeksambhu",
+    "contributions": [
+      "doc"
+    ]
+    }
+  ,
+    {
+    "login": "syedzubeen",
+    "name": "Zubeen",
+    "avatar_url": "https://avatars.githubusercontent.com/u/14253061?v=4",
+    "profile": "https://github.com/syedzubeen",
+    "contributions": [
+      "example"
+    ]
+    }
+  ,
+    {
+    "login": "Rutam21",
+    "name": "Rutam Prita Mishra",
+    "avatar_url": "https://avatars.githubusercontent.com/u/47860497?v=4",
+    "profile": "https://github.com/Rutam21",
+    "contributions": [
+      "content", "example"
     ]
     }
   ]
