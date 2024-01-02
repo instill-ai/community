@@ -15,6 +15,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "sajdakabir",
+      "name": "Sajda Kabir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86569763?v=4",
+      "profile": "http://sajdakabir.me",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
