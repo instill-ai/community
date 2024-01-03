@@ -251,6 +251,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "praharshjain",
+      "name": "Praharsh Jain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12197448?v=4",
+      "profile": "https://praharsh.tech",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
