@@ -242,6 +242,15 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "totuslink",
+      "name": "totuslink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78023102?v=4",
+      "profile": "https://github.com/totuslink",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
