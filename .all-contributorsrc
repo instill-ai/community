@@ -76,7 +76,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/143982976?v=4",
       "profile": "https://github.com/ShihChun-H",
       "contributions": [
-        "content", "tutorial"
+        "content",
+        "tutorial"
       ]
     },
     {
@@ -84,6 +85,15 @@
       "name": "Ikko Eltociear Ashimine",
       "avatar_url": "https://avatars.githubusercontent.com/u/22633385?v=4",
       "profile": "https://github.com/eltociear",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tonywang10101",
+      "name": "Tony Wang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78333580?v=4",
+      "profile": "https://github.com/tonywang10101",
       "contributions": [
         "code"
       ]
