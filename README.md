@@ -154,8 +154,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/syedzubeen"><img src="https://avatars.githubusercontent.com/u/14253061?v=4?s=100" width="100px;" alt="Zubeen"/><br /><sub><b>Zubeen</b></sub></a><br /><a href="#example-syedzubeen" title="Examples">💡</a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ShihChun-H"><img src="https://avatars.githubusercontent.com/u/143982976?v=4?s=100" width="100px;" alt="ShihChun-H"/><br /><sub><b>ShihChun-H</b></sub></a><br /><a href="#content-ShihChun-H" title="Content">🖋✅</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/eltociear"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt="Ikko Eltociear Ashimine"/><br /><sub><b>Ikko Eltociear Ashimine</b></sub></a><br /><a href="#content-eltociear" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ShihChun-H"><img src="https://avatars.githubusercontent.com/u/143982976?v=4?s=100" width="100px;" alt="ShihChun-H"/><br /><sub><b>ShihChun-H</b></sub></a><br /><a href="#content-ShihChun-H" title="Content">🖋</a> <a href="#tutorial-ShihChun-H" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/eltociear"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt="Ikko Eltociear Ashimine"/><br /><sub><b>Ikko Eltociear Ashimine</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=eltociear" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tonywang10101"><img src="https://avatars.githubusercontent.com/u/78333580?v=4?s=100" width="100px;" alt="Tony Wang"/><br /><sub><b>Tony Wang</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=tonywang10101" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
