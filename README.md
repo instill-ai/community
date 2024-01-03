@@ -166,6 +166,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/bryan107"><img src="https://avatars.githubusercontent.com/u/8025085?v=4?s=100" width="100px;" alt="Po-Yu Chen"/><br /><sub><b>Po-Yu Chen</b></sub></a><br /><a href="#example-bryan107" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.summerbud.org"><img src="https://avatars.githubusercontent.com/u/57251712?v=4?s=100" width="100px;" alt="Po Chun Chiu"/><br /><sub><b>Po Chun Chiu</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=EiffelFly" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sarthak-instill"><img src="https://avatars.githubusercontent.com/u/134260133?v=4?s=100" width="100px;" alt="Sarthak"/><br /><sub><b>Sarthak</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=Sarthak-instill" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/heiruwu"><img src="https://avatars.githubusercontent.com/u/5631010?v=4?s=100" width="100px;" alt="HR Wu"/><br /><sub><b>HR Wu</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=heiruwu" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
