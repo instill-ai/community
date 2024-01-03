@@ -156,6 +156,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ShihChun-H"><img src="https://avatars.githubusercontent.com/u/143982976?v=4?s=100" width="100px;" alt="ShihChun-H"/><br /><sub><b>ShihChun-H</b></sub></a><br /><a href="#content-ShihChun-H" title="Content">🖋</a> <a href="#tutorial-ShihChun-H" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/eltociear"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt="Ikko Eltociear Ashimine"/><br /><sub><b>Ikko Eltociear Ashimine</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=eltociear" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/FarukhS52"><img src="https://avatars.githubusercontent.com/u/129654632?v=4?s=100" width="100px;" alt="Farookh Zaheer Siddiqui"/><br /><sub><b>Farookh Zaheer Siddiqui</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=FarukhS52" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/diamondsea"><img src="https://avatars.githubusercontent.com/u/847589?v=4?s=100" width="100px;" alt="Brian Gallagher"/><br /><sub><b>Brian Gallagher</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=diamondsea" title="Documentation">📖</a></td>
     </tr>
   </tbody>
