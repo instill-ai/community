@@ -160,6 +160,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/diamondsea"><img src="https://avatars.githubusercontent.com/u/847589?v=4?s=100" width="100px;" alt="Brian Gallagher"/><br /><sub><b>Brian Gallagher</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=diamondsea" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hairyputtar"><img src="https://avatars.githubusercontent.com/u/148847552?v=4?s=100" width="100px;" alt="hairyputtar"/><br /><sub><b>hairyputtar</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=hairyputtar" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://dmarx.github.io"><img src="https://avatars.githubusercontent.com/u/1466881?v=4?s=100" width="100px;" alt="David Marx"/><br /><sub><b>David Marx</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=dmarx" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://den1z.sh"><img src="https://avatars.githubusercontent.com/u/11199794?v=4?s=100" width="100px;" alt="Deniz Parlak"/><br /><sub><b>Deniz Parlak</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=DenizParlak" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
 </table>
