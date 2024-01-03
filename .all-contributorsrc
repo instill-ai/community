@@ -196,6 +196,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "pinglin",
+      "name": "Ping-Lin Chang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/628430?v=4",
+      "profile": "https://github.com/pinglin",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
