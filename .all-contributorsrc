@@ -97,6 +97,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "diamondsea",
+      "name": "Brian Gallagher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/847589?v=4",
+      "profile": "https://github.com/diamondsea",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
