@@ -205,6 +205,24 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "tonywang10101",
+      "name": "Tony Wang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78333580?v=4",
+      "profile": "https://github.com/tonywang10101",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Pratikdate",
+      "name": "Pratik date",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91735895?v=4",
+      "profile": "https://github.com/Pratikdate",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
