@@ -152,7 +152,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/HariBhandari07"><img src="https://avatars.githubusercontent.com/u/34328907?v=4?s=100" width="100px;" alt="Hari Bhandari"/><br /><sub><b>Hari Bhandari</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=HariBhandari07" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/geeksambhu"><img src="https://avatars.githubusercontent.com/u/9899283?v=4?s=100" width="100px;" alt="Shiva Gaire"/><br /><sub><b>Shiva Gaire</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=geeksambhu" title="Doc">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/syedzubeen"><img src="https://avatars.githubusercontent.com/u/14253061?v=4?s=100" width="100px;" alt="Zubeen"/><br /><sub><b>Zubeen</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=syedzubeen" title="Example">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rutam21"><img src="https://avatars.githubusercontent.com/u/47860497?v=4?s=100" width="100px;" alt="Rutam Prita Mishra"/><br /><sub><b>Rutam Prita Mishra</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=Rutam21" title="Content">💻</a></td>
     </tr>
   </tbody>
 </table>
