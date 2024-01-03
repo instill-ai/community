@@ -76,7 +76,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/143982976?v=4",
       "profile": "https://github.com/ShihChun-H",
       "contributions": [
-        "content", "tutorial"
+        "content",
+        "tutorial"
       ]
     },
     {
@@ -86,6 +87,15 @@
       "profile": "https://github.com/eltociear",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "Pratikdate",
+      "name": "Pratik date",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91735895?v=4",
+      "profile": "https://pratikdate.github.io/",
+      "contributions": [
+        "doc"
       ]
     }
   ],
