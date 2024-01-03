@@ -175,6 +175,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pinglin"><img src="https://avatars.githubusercontent.com/u/628430?v=4?s=100" width="100px;" alt="Ping-Lin Chang"/><br /><sub><b>Ping-Lin Chang</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=pinglin" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tonywang10101"><img src="https://avatars.githubusercontent.com/u/78333580?v=4?s=100" width="100px;" alt="Tony Wang"/><br /><sub><b>Tony Wang</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=tonywang10101" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Pratikdate"><img src="https://avatars.githubusercontent.com/u/91735895?v=4?s=100" width="100px;" alt="Pratik date"/><br /><sub><b>Pratik date</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=Pratikdate" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jvallesm"><img src="https://avatars.githubusercontent.com/u/3977183?v=4?s=100" width="100px;" alt="Juan Vallés"/><br /><sub><b>Juan Vallés</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=jvallesm" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
