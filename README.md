@@ -171,6 +171,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/donch1989"><img src="https://avatars.githubusercontent.com/u/441005?v=4?s=100" width="100px;" alt="Chang, Hui-Tang"/><br /><sub><b>Chang, Hui-Tang</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=donch1989" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/xiaofei-du"><img src="https://avatars.githubusercontent.com/u/66248476?v=4?s=100" width="100px;" alt="Xiaofei Du"/><br /><sub><b>Xiaofei Du</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=xiaofei-du" title="Code">💻</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pinglin"><img src="https://avatars.githubusercontent.com/u/628430?v=4?s=100" width="100px;" alt="Ping-Lin Chang"/><br /><sub><b>Ping-Lin Chang</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=pinglin" title="Code">💻</a></td>
+    </tr>
   </tbody>
 </table>
 
