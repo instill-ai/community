@@ -162,6 +162,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="http://dmarx.github.io"><img src="https://avatars.githubusercontent.com/u/1466881?v=4?s=100" width="100px;" alt="David Marx"/><br /><sub><b>David Marx</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=dmarx" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://den1z.sh"><img src="https://avatars.githubusercontent.com/u/11199794?v=4?s=100" width="100px;" alt="Deniz Parlak"/><br /><sub><b>Deniz Parlak</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=DenizParlak" title="Tests">⚠️</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/bryan107"><img src="https://avatars.githubusercontent.com/u/8025085?v=4?s=100" width="100px;" alt="Po-Yu Chen"/><br /><sub><b>Po-Yu Chen</b></sub></a><br /><a href="#example-bryan107" title="Examples">💡</a></td>
+    </tr>
   </tbody>
 </table>
 
