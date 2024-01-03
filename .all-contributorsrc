@@ -115,6 +115,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "dmarx",
+      "name": "David Marx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1466881?v=4",
+      "profile": "http://dmarx.github.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
