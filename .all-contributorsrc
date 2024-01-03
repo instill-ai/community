@@ -223,6 +223,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jvallesm",
+      "name": "Juan Vallés",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3977183?v=4",
+      "profile": "https://github.com/jvallesm",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
