@@ -124,6 +124,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "DenizParlak",
+      "name": "Deniz Parlak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11199794?v=4",
+      "profile": "https://den1z.sh",
+      "contributions": [
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
