@@ -180,6 +180,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/totuslink"><img src="https://avatars.githubusercontent.com/u/78023102?v=4?s=100" width="100px;" alt="totuslink"/><br /><sub><b>totuslink</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=totuslink" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://praharsh.tech"><img src="https://avatars.githubusercontent.com/u/12197448?v=4?s=100" width="100px;" alt="Praharsh Jain"/><br /><sub><b>Praharsh Jain</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=praharshjain" title="Documentation">📖</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Smartmind12"><img src="https://avatars.githubusercontent.com/u/91927689?v=4?s=100" width="100px;" alt="Utsav Paul"/><br /><sub><b>Utsav Paul</b></sub></a><br /><a href="https://github.com/instill-ai/community/commits?author=Smartmind12" title="Documentation">📖</a></td>
+    </tr>
   </tbody>
 </table>
 
