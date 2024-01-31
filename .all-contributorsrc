@@ -278,6 +278,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "rsmelo92",
+      "name": "Rafael Melo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16295402?v=4",
+      "profile": "https://rsmelo92.github.io/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
